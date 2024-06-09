@@ -227,7 +227,7 @@ table {
       z-index: 2;
   }
   
-  .underline {
+  .underliner {
       background-image: url(https://github.com/hexschool/2024-camp/blob/main/public/images/mark.png?raw=true);
       background-position: bottom;
       background-repeat: no-repeat;
